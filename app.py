@@ -77,4 +77,4 @@ if st.button("Predict Survival", help="Click to see the prediction"):
         st.error(f"An error occurred during prediction: {e}")
 
 st.markdown("---")
-st.markdown("Project by [Your Name Here]")
+st.markdown("Project by Parthkumar Mungra(2022IMT-082)")
